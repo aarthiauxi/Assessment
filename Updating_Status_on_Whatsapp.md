@@ -73,15 +73,15 @@ To update your status with a photo, perform the following steps:
 4.	In your gallery, select a photo.
 5.	At the top of the photo screen, use the following tools to customize your photo:
 
-  - Tap   to adjust color, alignment, and background.
+  - Tap ![Image](text.jpg)   to adjust color, alignment, and background.
 
-  - Tap   to add location, time, emojis, and stickers.
+  - Tap ![Image](sticker.png)   to add location, time, emojis, and stickers.
 
-  - Tap   to draw.
+  - Tap ![Image](pencil.png)to draw.
 
-  - Tap   to add a song.
+  - Tap ![Image](music.png)  to add a song.
 
-  - Tap   to rotate or resize your photo.
+  - Tap ![Image](crop.png)   to rotate or resize your photo.
 
 6.	Below the photo on the left, tap **Add a caption** to type a message.
 7.	Below the photo on the right, tap the **@** icon to mention your contacts.
@@ -100,15 +100,15 @@ To update your status with a video, perform the following steps:
 4.	In your gallery, select a video.
 5.	At the top of the **Photo** screen, use the following tools to customize your video:
 
-  - Tap   to adjust color, alignment, and background.
+  - Tap ![Image](text.jpg)  to adjust color, alignment, and background.
 
-  - Tap   to add location, time, emojis, and stickers.
+  - Tap  ![Image](sticker.png)   to add location, time, emojis, and stickers.
 
-  - Tap   to draw.
+  - Tap ![Image](pencil.png)  to draw.
 
-  - Tap   to add a song.
+  - Tap ![Image](music.png)  to add a song.
 
-  - Tap Trim to drag the ends of the slider to shorten the video.
+  - Tap **Trim** to drag the ends of the slider to shorten the video.
 
 6.	Below the video on the left, tap **Add a caption** to type a message.
 7.	Below the video on the right, tap the **@** icon to mention your contacts.
@@ -128,10 +128,10 @@ To update your status with music, perform the following steps:
 5.	In the **Search** bar, find and select your song.
 6.	At the top of the **Music** screen, use the following tools to customize your music post:
 
-  - Tap   to adjust color, alignment, and background.
+  - Tap ![Image](text.jpg)  to adjust color, alignment, and background.
 
-  - Tap   to add location, time, emojis, and stickers.
-  - Tap   to draw.
+  - Tap ![Image](sticker.png)  to add location, time, emojis, and stickers.
+  - Tap ![Image](pencil.png)  to draw.
 
 7.	Below the music on the left, tap **Add a caption** to type a message.
 8.	Below the music on the right, tap the **@** icon to mention your contacts.
@@ -160,7 +160,7 @@ To update your status with voice, perform the following steps:
 
   - **Remove**: Tap the **Delete** icon to discard your message.
 
-7.	At the top of the screen, tap ! [Image](background icon.png")   to change the background colour.
+7.	At the top of the screen, tap ![Image](background.png)   to change the background colour.
 8.	At the bottom left, tap **Status** to choose you contacts.
 9.	At the bottom right, tap **Send** icon to share your update.
 
