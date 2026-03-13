@@ -42,7 +42,7 @@ Before you start, check the following requirements:
 - **Ensure an internet connection**: Use Wi-Fi or mobile data.
 - **Update the application**: Install the latest version of WhatsApp.
 
-**Status Privacy Option**
+**Status Privacy Options**
 
 WhatsApp provides status privacy settings that allow you to control who can view your status updates. 
 
@@ -51,7 +51,7 @@ WhatsApp provides status privacy settings that allow you to control who can view
   2. At the top of the screen, tap the **three-dot** icon.
   3. In the drop-down menu, select  **Settings**.
   4. In the **Settings** list, tap **Privacy**.
-  5. In the **Privacy** option, select **Status**. 
+  5. In the **Privacy** options, select **Status**. 
    
 In Status, choose one of the following options:
 
@@ -175,7 +175,7 @@ To update your status with voice, perform the following steps:
 
     - **Remove**: Tap the **Delete** icon to discard your message.
 
-7.	At the top of the screen, tap ![Image](background.png)   to change the background colour.
+7.	At the top of the screen, tap ![Image](background.png) to change the background colour.
 8.	At the bottom left, tap **Status** to choose your contacts.
 9.	At the bottom right, tap the **Send** icon to share your update.
 
